@@ -14,8 +14,6 @@ function checkPalindromicWord() {
 
   if (reversedString === userWord) isPalindromic = true;
 
-  console.log(isPalindromic);
-
   return isPalindromic;
 }
 
